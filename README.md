@@ -1,9 +1,14 @@
+Overview
+This repository contains the complete code for the paper "Triple Contrastive Learning Representation Boosting for Supervised Multiclass Tasks". You can directly run the code to achieve the reported results. Additionally, the repository includes pre-trained models for the baseline method (CE+SCL) and our proposed method (TSI-CL).
 
+Code Structure and Updates
+All experiments in the paper were completed a year ago, and during that period, the code was somewhat complex. To improve usability and maintainability, we have reorganized the code for clarity. While we ensured that the code ran correctly on our devices before submission, please note that some issues may have arisen due to code restructuring. If you encounter any errors while running the code, feel free to contact us, and we will assist in resolving them.
 
-##This is the complete code for the paper "Triple Contrastive Learning Representation Boosting for Supervised Multiclass Tasks" . You can run the code directly to achieve good results. I have also uploaded models trained with the baseline CE+SCL and our improved method TSI-CL.
+Applying TSCL to Other Domains
+In theory, the Triple Supervised Contrastive Learning (TSCL) idea is applicable to any algorithmic that utilizes supervised contrastive learning. If you wish to extend TSCL to other domains, you only need to make minor modifications to the loss function interface of TSCL.
 
-##Since all the experiments mentioned in the paper were completed a year ago, and the code was overly complex during the experiments, I have reorganized it. However, this might also introduce some errors. Although we ensured the code ran correctly on our devices before submission, if you encounter any errors while running the code, please contact us to resolve them together.
+Contact Information
+For further inquiries or issues, please contact:
+Xianshuai Li
+Email: xianshuaili@mails.ccnu.edu.cn
 
-##SIn theory, our TSCL is applicable to any algorithmic framework that uses supervised contrastive learning. If you want to apply our TSCL to other domains, you only need to make slight modifications to the loss function interface of TSC
-
-##Responsible: Xianshuai Li Email:1849667739@qq.com
