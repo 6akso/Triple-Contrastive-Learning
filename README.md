@@ -32,3 +32,4 @@ author = {Xianshuai Li and Zhi Liu and Sannyuya Liu},
 keywords = {Supervised contrastive learning, Multi-class datasets, Text classification, Image classification},
 }
 ---------------------------------------------------------------------------------------------------
+Acknowledgment: The implementation of our code was made possible with the help of supervised contrastive learning and dual contrastive learning.
