@@ -15,4 +15,20 @@ Contact Information
 For further inquiries or issues, please contact:
 Xianshuai Li
 Email: xianshuaili@mails.ccnu.edu.cn
+---------------------------------------------------------------------------------------------------
+You can cite our paper in the following way:
 
+@article{LI2025104011,
+title = {Triple contrastive learning representation boosting for supervised multiclass tasks},
+journal = {Information Processing & Management},
+volume = {62},
+number = {3},
+pages = {104011},
+year = {2025},
+issn = {0306-4573},
+doi = {https://doi.org/10.1016/j.ipm.2024.104011},
+url = {https://www.sciencedirect.com/science/article/pii/S0306457324003704},
+author = {Xianshuai Li and Zhi Liu and Sannyuya Liu},
+keywords = {Supervised contrastive learning, Multi-class datasets, Text classification, Image classification},
+}
+---------------------------------------------------------------------------------------------------
