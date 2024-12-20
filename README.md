@@ -10,13 +10,17 @@ Applying TSCL to Other Domains
 
 In theory, the Triple Supervised Contrastive Learning (TSCL) idea is applicable to any algorithmic that utilizes supervised contrastive learning. If you wish to extend TSCL to other domains, you only need to make minor modifications to the loss function interface of TSCL.
 
-Contact Information
+__Order of Authors:__ 
+
+__Xianshuai Li¹, Zhi Liu²,*, Sannyuya Liu³__
+
+__Contact Information__
 
 For further inquiries or issues, please contact:
 Xianshuai Li
 Email: xianshuaili@mails.ccnu.edu.cn
 ---------------------------------------------------------------------------------------------------
-You can cite our paper in the following way:
+__You can cite our paper in the following way:__
 
 @article{LI2025104011,
 title = {Triple contrastive learning representation boosting for supervised multiclass tasks},
