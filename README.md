@@ -12,13 +12,13 @@ In theory, the Triple Supervised Contrastive Learning (TSCL) idea is applicable 
 
 Order of Authors
 
-Xianshuai Li¹, Zhi Liu²,*, Sannyuya Liu³
+(Xianshuai Li et al.)
 ---------------------------------------------------------------------------------------------------
 Contact Information
 
 For further inquiries or issues, please contact:
 Xianshuai Li
-Email: xianshuaili@mails.ccnu.edu.cn
+Email: 254701004@csu.edu.cn
 ---------------------------------------------------------------------------------------------------
 You can cite our paper in the following way:
 
